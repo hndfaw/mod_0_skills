@@ -1,0 +1,11 @@
+Food
+
+Attributes
+typeOfFood: array
+flavors: array
+availableTables: boolean
+
+
+Methods:
+timeOfCooking
+eating

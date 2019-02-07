@@ -1,0 +1,11 @@
+Drinks
+
+Attributes
+typeOfDrinks: array
+hotOrCold: array
+alcohol: boolean
+sizeOfDrink: float
+
+
+Methods:
+drinking
