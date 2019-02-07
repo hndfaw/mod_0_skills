@@ -1,0 +1,10 @@
+Tables
+
+Attributes
+typeOfTables: array
+locationOfTable: string
+availableTables: boolean
+
+
+Methods:
+reservation
